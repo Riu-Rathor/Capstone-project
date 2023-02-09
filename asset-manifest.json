@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Capstone-project/static/css/main.54ae648c.css",
+    "main.js": "/Capstone-project/static/js/main.d4799751.js",
+    "static/media/portfolio.jpg": "/Capstone-project/static/media/portfolio.01dd79553bcaa68fdb7c.jpg",
+    "static/media/person2.jpg": "/Capstone-project/static/media/person2.471933d5ee87f0422c02.jpg",
+    "static/media/person3.jpg": "/Capstone-project/static/media/person3.395b5685fb7faba2b0a8.jpg",
+    "static/media/product4.jpg": "/Capstone-project/static/media/product4.94f1bc5d0678e2629aeb.jpg",
+    "static/media/product1.jpg": "/Capstone-project/static/media/product1.8d05cbf9e77184b549db.jpg",
+    "static/media/hero.jpg": "/Capstone-project/static/media/hero.8acdd97949133de24361.jpg",
+    "static/media/person1.jpg": "/Capstone-project/static/media/person1.4621e3decc67c36b0dfd.jpg",
+    "static/media/product3.jpg": "/Capstone-project/static/media/product3.26dbf87d9c8fd8e0b3f2.jpg",
+    "static/media/product2.jpg": "/Capstone-project/static/media/product2.201f8ebd10b441d95dd8.jpg",
+    "static/media/homely-food.png": "/Capstone-project/static/media/homely-food.7d31d015cf892956faa4.png",
+    "static/media/HeroDesign.png": "/Capstone-project/static/media/HeroDesign.70d4607cd228844ffa52.png",
+    "index.html": "/Capstone-project/index.html",
+    "main.54ae648c.css.map": "/Capstone-project/static/css/main.54ae648c.css.map",
+    "main.d4799751.js.map": "/Capstone-project/static/js/main.d4799751.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54ae648c.css",
+    "static/js/main.d4799751.js"
+  ]
+}
